@@ -1,0 +1,6 @@
+1526917131243:getwd()
+1526917137276:setwd("~/R-studio-docs")
+1526917260689:setwd("~/R-studio-docs")
+1526917287979:iris
+1526917294273:plot(iris$Sepal.Length)
+1526917450593:View(iris)

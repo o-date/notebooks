@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526917011798.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2689021081",
+    "id" : "41D82CA",
+    "lastKnownWriteTime" : 1526917512,
+    "last_content_update" : 1526917512864,
+    "path" : "~/R-studio-docs/rstudio-demo.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "16",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
