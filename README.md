@@ -9,9 +9,20 @@ Of course, we want you to make changes, add more notebooks, and save them in _yo
 
 ![imgur](https://i.imgur.com/9vf0Hx7.png)
 
-Make a note of the link for your binder. You may want to copy that binder link and perhaps paste it into the readme.md document so you always know where to go. Then hit 'launch'. If you click on 'build logs - show' you'll see the computer working away to launch your environment. Sometimes this fails; just reload and be patient.
+Make a note of the link for your binder. 
 
-Once you're in the notebook environment, you can make new notebooks using R or Python. If you find that you're installing lots of packages for R or python, you can preload these in the future by putting the relevant information in a file in your repository called `install.R` or `requirements.txt`, respectively. In this repo you can see our `example.install.R` or `example.requirements.txt` to see how new packages should be listed. When mybinder launches, it will install those packages automatically if `install.R` or `requirements.txt` are present.
+Then, edit the README.md file in _your repo_ to change the mybinder URL to your GitHub username. For example:
+
+`[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/o-date/notebooks/master)`
+
+will become
+
+`[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/yourgithubusername/notebooks/master)`
+
+Commit your change. Then whenever you view your repo you can click on the pink 'launch binder' button and you will get a Juptyer notebook that is connected to your GitHub  repo. If you click on 'build logs - show' you'll see the computer working away to launch your environment. Sometimes this fails; just reload and be patient.
+
+
+Once you're in the notebook environment, you can make new notebooks using R or Python or RStudio. If you find that you're installing lots of packages for R or python, you can preload these in the future by putting the relevant information in a file in your repository called `install.R` or `requirements.txt`, respectively. In this repo you can see our `example.install.R` or `example.requirements.txt` to see how new packages should be listed. When mybinder launches, it will install those packages automatically if `install.R` or `requirements.txt` are present.
 
 When you create new notebooks, you can download them to your local computer (tick the box beside their name on the 'home' screen, then 'download'). Or you can use git to push them to your repository:
 
