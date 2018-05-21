@@ -30,3 +30,4 @@ View(iris)
 # by clicking on the 'Project' dropdown at top right, then 'new project -> existing directory'.
 
 # Use a new directory when starting a new project.
+# Remember to open a terminal and push your changes to your repository when you're done. This can also be done inside R Studio.
