@@ -6,3 +6,6 @@
 .bashrc
 .profile
 .wget-hsts
+*.ipython/profile_default
+.rstudio
+.subversion
