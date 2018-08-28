@@ -1,4 +1,7 @@
 # notebooks
+
+[![DOI](https://zenodo.org/badge/133830731.svg)](https://zenodo.org/badge/latestdoi/133830731)
+
 This is a small repository containing all you need to set up jupyter notebooks for use with Mybinder. mybinder.org creates a docker file that it then launches for you in the Jupyter Notebook exectuable environment (jupyterhub). This means, that if you clicked on the binder button below:
 
 [![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/o-date/notebooks/master)
