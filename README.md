@@ -4,7 +4,7 @@
 
 This is a small repository containing all you need to set up jupyter notebooks for use with Mybinder. mybinder.org creates a docker file that it then launches for you in the Jupyter Notebook exectuable environment (jupyterhub). This means, that if you clicked on the binder button below:
 
-[![Binder](https://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/o-date/notebooks/master)
+[![Binder](https://mybinder.org/v2/gh/Osalimas/Week-2_notebooks/master)
 
 ...you'd get a version of this repository as it currently exists. You would then be able to create new python or R notebooks and run the code, writing your analysis and your code together. You could also open a terminal within Jupyter and use git to push any changes you make back to _this_ repository.
 
